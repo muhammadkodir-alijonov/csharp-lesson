@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a2bbfb0-fd19-421b-be84-2c145652e461" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/CarShop.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/CarShop.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Attributes/ValidColorAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Attributes/ValidColorAttribute.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Configurations/JwtConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Configurations/JwtConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Configurations/LoggerConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Configurations/LoggerConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Configurations/MapperConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Configurations/MapperConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Configurations/SwaggerAuthConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Configurations/SwaggerAuthConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Constants/TimeConstants.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Constants/TimeConstants.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/DbContexts/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/DbContexts/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Enums/CarOrderStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Enums/CarOrderStatus.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Enums/UserRole.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Enums/UserRole.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Exceptions/NotFoundException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Exceptions/NotFoundException.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Exceptions/StatusCodeException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Exceptions/StatusCodeException.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Helpers/ImageHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Helpers/ImageHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Helpers/TimeHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Helpers/TimeHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Security/AuthManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Security/AuthManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Security/PasswordHasher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Security/PasswordHasher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Utils/PaginationMetaData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Utils/PaginationMetaData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Common/Utils/PaginationParams.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Common/Utils/PaginationParams.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Controllers/AccountsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Controllers/AccountsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Controllers/CarsContorller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Controllers/CarsContorller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Controllers/OrdersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Controllers/OrdersController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Dtos/Accounts/AccountLoginDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Dtos/Accounts/AccountLoginDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Dtos/Accounts/AccountRegisterDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Dtos/Accounts/AccountRegisterDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Dtos/Cars/CarCreateDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Dtos/Cars/CarCreateDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Dtos/Common/ErrorDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Dtos/Common/ErrorDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Dtos/Orders/OrderCreateDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Dtos/Orders/OrderCreateDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Dtos/Orders/OrderDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Dtos/Orders/OrderDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Dtos/Users/OwnerDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Dtos/Users/OwnerDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Interfaces/Common/IPaginationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Interfaces/Common/IPaginationService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Interfaces/IAccountService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Interfaces/IAccountService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Interfaces/IAuthManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Interfaces/IAuthManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Interfaces/ICarService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Interfaces/ICarService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Interfaces/IFileService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Interfaces/IFileService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Interfaces/IOrderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Interfaces/IOrderService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Middlewares/ExceptionHandlerMiddleware.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Middlewares/ExceptionHandlerMiddleware.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Middlewares/RequestRegisterMiddleware.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Middlewares/RequestRegisterMiddleware.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Migrations/20230702072205_InitialCreate.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Migrations/20230702072205_InitialCreate.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Migrations/20230702072205_InitialCreate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Migrations/20230702072205_InitialCreate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Migrations/20230706130934_UsersMigration.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Migrations/20230706130934_UsersMigration.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Migrations/20230706130934_UsersMigration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Migrations/20230706130934_UsersMigration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Migrations/AppDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Migrations/AppDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Models/Car.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Models/Car.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Models/Order.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Models/Order.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Services/AccountService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Services/AccountService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Services/CarService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Services/CarService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Services/FileService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Services/FileService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Services/OrderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Services/OrderService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/Services/PaginatorService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/Services/PaginatorService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.Api/wwwroot/images/IMG_e8c70eee-4113-4435-87c2-68cafc836e52.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.Api/wwwroot/images/IMG_e8c70eee-4113-4435-87c2-68cafc836e52.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AspNet web/CarShop/CarShop.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/AspNet web/CarShop/CarShop.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/function_procedure/create users 2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/function_procedure/create users 2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/function_procedure/create users.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/function_procedure/create users.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/function_procedure/function.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/function_procedure/function.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/function_procedure/procedure.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/function_procedure/procedure.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/function_procedure/select.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/function_procedure/select.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/shopping-center-db/edu-db.pgerd" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/shopping-center-db/edu-db.pgerd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/shopping-center-db/shop-db.pgerd" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/shopping-center-db/shop-db.pgerd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/shopping-center-db/shop-sql-db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/shopping-center-db/shop-sql-db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/sql relationships/many-to-many/employees-offices.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/sql relationships/many-to-many/employees-offices.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/sql relationships/many-to-many/users-chats.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/sql relationships/many-to-many/users-chats.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/sql relationships/one-to-many/students-courses.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/sql relationships/one-to-many/students-courses.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/sql relationships/one-to-many/teachers-subjects.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/sql relationships/one-to-many/teachers-subjects.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/sql relationships/one-to-many/users-cards.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/sql relationships/one-to-many/users-cards.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/sql relationships/one-to-many/videoes-comments.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/sql relationships/one-to-many/videoes-comments.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/sql relationships/one-to-one/people-pasports.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/sql relationships/one-to-one/people-pasports.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/sql relationships/one-to-one/presidents-countries.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/DataBase/sql relationships/one-to-one/presidents-countries.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/DbContexts/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/DbContexts/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/EfCore.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/EfCore.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/Migrations/20230625135639_InitialCreate.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/Migrations/20230625135639_InitialCreate.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/Migrations/20230625135639_InitialCreate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/Migrations/20230625135639_InitialCreate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/Migrations/20230626052729_carsMigartion.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/Migrations/20230626052729_carsMigartion.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/Migrations/20230626052729_carsMigartion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/Migrations/20230626052729_carsMigartion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/Migrations/20230626061528_anatationadded.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/Migrations/20230626061528_anatationadded.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/Migrations/20230626061528_anatationadded.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/Migrations/20230626061528_anatationadded.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/Migrations/AppDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/Migrations/AppDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/Models/Car.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/Models/Car.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCore/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCore/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCoreAdvamced/DbContests/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCoreAdvamced/DbContests/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCoreAdvamced/EfCoreAdvamced.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCoreAdvamced/EfCoreAdvamced.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCoreAdvamced/Migrations/20230626190908_InitialMigration.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCoreAdvamced/Migrations/20230626190908_InitialMigration.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCoreAdvamced/Migrations/20230626190908_InitialMigration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCoreAdvamced/Migrations/20230626190908_InitialMigration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCoreAdvamced/Migrations/AppDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCoreAdvamced/Migrations/AppDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCoreAdvamced/Models/BaseEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCoreAdvamced/Models/BaseEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCoreAdvamced/Models/Blog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCoreAdvamced/Models/Blog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCoreAdvamced/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCoreAdvamced/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/EfCoreAdvamced/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/EfCoreAdvamced/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/Linq/Linq.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/Linq/Linq.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/Linq/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/Linq/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/OnlyCore.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/OnlyCore.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/PictureSelctor/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/PictureSelctor/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/PictureSelctor/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/PictureSelctor/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/PictureSelctor/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/PictureSelctor/Form1.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/PictureSelctor/PictureSelctor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/PictureSelctor/PictureSelctor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/PictureSelctor/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/PictureSelctor/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/PictureSelctor/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/PictureSelctor/Properties/Resources.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/PictureSelctor/Properties/Resources.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/PictureSelctor/Properties/Resources.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/App.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Form1.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Form2.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Form2.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Form2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Form2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Form2.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Form2.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Properties/Resources.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Properties/Resources.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Properties/Resources.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Properties/Settings.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Properties/Settings.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/Properties/Settings.settings" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/Properties/Settings.settings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XanderUIDemoApp/XanderUIDemoApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XanderUIDemoApp/XanderUIDemoApp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XenderUI/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XenderUI/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XenderUI/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XenderUI/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XenderUI/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XenderUI/Form1.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XenderUI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XenderUI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/XenderUI/XanderUI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/XenderUI/XanderUI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/abstarct_class/Models/Rectangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/abstarct_class/Models/Rectangle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/abstarct_class/Models/Shape.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/abstarct_class/Models/Shape.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/abstarct_class/Models/Triange.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/abstarct_class/Models/Triange.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/abstarct_class/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/abstarct_class/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/abstarct_class/abstarct_class.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/abstarct_class/abstarct_class.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/adonet/Constants/DbConstants.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/adonet/Constants/DbConstants.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/adonet/Interface/Repositories/IUserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/adonet/Interface/Repositories/IUserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/adonet/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/adonet/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/adonet/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/adonet/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/adonet/Repositories/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/adonet/Repositories/UserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/adonet/adonet.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/adonet/adonet.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/array/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/array/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/array/array.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/array/array.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/async_await/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/async_await/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/async_await/async_await.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/async_await/async_await.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/App.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/Form1.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/Properties/Resources.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/Properties/Resources.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/Properties/Resources.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/Properties/Settings.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/Properties/Settings.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/Properties/Settings.settings" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/Properties/Settings.settings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/asyncawait.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/asyncawait.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/asyncawait/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/asyncawait/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/class_array/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/class_array/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/class_array/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/class_array/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/class_array/class_array.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/class_array/class_array.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/class_array_user/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/class_array_user/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/class_array_user/class_array_user.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/class_array_user/class_array_user.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/datatypes-operators-loop/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/datatypes-operators-loop/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/datatypes-operators-loop/datatypes-operators.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/datatypes-operators-loop/datatypes-operators.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/delegate/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/delegate/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/delegate/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/delegate/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/delegate/delegate.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/delegate/delegate.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/demo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/demo/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/demo/demo.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/demo/demo.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/download/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/download/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/download/download.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/download/download.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/enum/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/enum/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/enum/enum.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/enum/enum.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/essential/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/essential/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/essential/essential.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/essential/essential.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/file/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/file/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/file/file.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/file/file.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/fully_list/Enum/Role.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/fully_list/Enum/Role.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/fully_list/Helpers/OutputHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/fully_list/Helpers/OutputHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/fully_list/Interface/IAudentificationManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/fully_list/Interface/IAudentificationManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/fully_list/Interface/IPasswordReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/fully_list/Interface/IPasswordReader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/fully_list/MockData/Data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/fully_list/MockData/Data.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/fully_list/Models/Teacher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/fully_list/Models/Teacher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/fully_list/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/fully_list/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/fully_list/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/fully_list/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/fully_list/Service/AudentificationManger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/fully_list/Service/AudentificationManger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/fully_list/Service/PasswordReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/fully_list/Service/PasswordReader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/fully_list/fully_list.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/fully_list/fully_list.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/function/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/function/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/function/function.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/function/function.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/hash/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/hash/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/hash/hash.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/hash/hash.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/homework_linq/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/homework_linq/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/homework_linq/homework_linq_1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/homework_linq/homework_linq_1.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/homework_linq_2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/homework_linq_2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/homework_linq_2/homework_linq_2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/homework_linq_2/homework_linq_2.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/homework_linq_3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/homework_linq_3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/homework_linq_3/homework_linq_3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/homework_linq_3/homework_linq_3.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/incapsulation/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/incapsulation/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/incapsulation/incapsulation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/incapsulation/incapsulation.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/incubsulation/Models/Child.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/incubsulation/Models/Child.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/incubsulation/Models/Father.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/incubsulation/Models/Father.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/incubsulation/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/incubsulation/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/incubsulation/incupsulation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/incubsulation/incupsulation.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/inherent/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/inherent/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/inherent/inherent.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/inherent/inherent.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface/Models/Car.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface/Models/Car.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface/Models/Electornic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface/Models/Electornic.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface/Models/Laptop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface/Models/Laptop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface/interface/IHeatable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface/interface/IHeatable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface/interface/IOilable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface/interface/IOilable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface/interface/ISwitable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface/interface/ISwitable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface/interface/Icoolable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface/interface/Icoolable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface/interface_practise.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface/interface_practise.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/Models/Animal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/Models/Animal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/Models/Bird.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/Models/Bird.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/Models/Fish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/Models/Fish.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/Models/Lion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/Models/Lion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/Models/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/Models/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/interface/Huntable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/interface/Huntable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/interface/IBreathable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/interface/IBreathable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/interface/IEatable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/interface/IEatable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/interface/IFlyable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/interface/IFlyable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/interface/IHuntable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/interface/IHuntable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/interface/IJumpable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/interface/IJumpable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/interface/IMoveable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/interface/IMoveable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/interface/ISwimable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/interface/ISwimable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/interface/ITalkable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/interface/ITalkable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/interface_practice2/interface_practice2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/interface_practice2/interface_practice2.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/json/Data/UserData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/json/Data/UserData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/json/Models/Currency.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/json/Models/Currency.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/json/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/json/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/json/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/json/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/json/json.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/json/json.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/list/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/list/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/list/list.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/list/list.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/loop/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/loop/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/loop/loop.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/loop/loop.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/opp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/opp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/opp/opp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/opp/opp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/oveloading/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/oveloading/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/oveloading/oveloading.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/oveloading/oveloading.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/polymorphism/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/polymorphism/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/polymorphism/polymorphism.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/polymorphism/polymorphism.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/processor/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/processor/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/processor/processor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/processor/processor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/ref_for_5functions/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/ref_for_5functions/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/ref_for_5functions/ref_out_functions.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/ref_for_5functions/ref_out_functions.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/security/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/security/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/security/security.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/security/security.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/security/security/Crypt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/security/security/Crypt.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/security/security/Hasher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/security/security/Hasher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/string_stringBuilder/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/string_stringBuilder/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/string_stringBuilder/string_stringBuilder.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/string_stringBuilder/string_stringBuilder.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/struct_functions/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/struct_functions/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/struct_functions/struct_functions.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/struct_functions/struct_functions.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/thread/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/thread/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/thread/thread.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/thread/thread.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/trycatchfinily/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/trycatchfinily/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/trycatchfinily/trycatchfinally.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/trycatchfinily/trycatchfinally.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week1/datatypes-operators-loop/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week1/datatypes-operators-loop/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week1/datatypes-operators-loop/datatypes-operators.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week1/datatypes-operators-loop/datatypes-operators.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week1/loop/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week1/loop/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week1/loop/loop.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week1/loop/loop.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/array/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/array/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/array/array.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/array/array.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/class_array/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/class_array/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/class_array/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/class_array/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/class_array/class_array.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/class_array/class_array.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/class_array_user/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/class_array_user/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/class_array_user/class_array_user.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/class_array_user/class_array_user.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/download/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/download/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/download/download.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/download/download.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/enum/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/enum/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/enum/enum.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/enum/enum.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/essential/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/essential/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/essential/essential.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/essential/essential.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/function/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/function/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/function/function.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/function/function.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/processor/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/processor/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week2/processor/processor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week2/processor/processor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/abstarct_class/Models/Rectangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/abstarct_class/Models/Rectangle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/abstarct_class/Models/Shape.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/abstarct_class/Models/Shape.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/abstarct_class/Models/Triange.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/abstarct_class/Models/Triange.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/abstarct_class/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/abstarct_class/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/abstarct_class/abstarct_class.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/abstarct_class/abstarct_class.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/incapsulation/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/incapsulation/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/incapsulation/incapsulation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/incapsulation/incapsulation.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/incubsulation/Models/Child.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/incubsulation/Models/Child.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/incubsulation/Models/Father.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/incubsulation/Models/Father.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/incubsulation/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/incubsulation/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/incubsulation/incupsulation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/incubsulation/incupsulation.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/inherent/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/inherent/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/inherent/inherent.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/inherent/inherent.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface/Models/Car.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface/Models/Car.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface/Models/Electornic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface/Models/Electornic.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface/Models/Laptop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface/Models/Laptop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface/interface/IHeatable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface/interface/IHeatable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface/interface/IOilable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface/interface/IOilable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface/interface/ISwitable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface/interface/ISwitable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface/interface/Icoolable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface/interface/Icoolable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface/interface_practise.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface/interface_practise.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/Models/Animal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/Models/Animal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/Models/Bird.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/Models/Bird.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/Models/Fish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/Models/Fish.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/Models/Lion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/Models/Lion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/Models/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/Models/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/interface/Huntable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/interface/Huntable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/interface/IBreathable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/interface/IBreathable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/interface/IEatable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/interface/IEatable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/interface/IFlyable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/interface/IFlyable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/interface/IHuntable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/interface/IHuntable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/interface/IJumpable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/interface/IJumpable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/interface/IMoveable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/interface/IMoveable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/interface/ISwimable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/interface/ISwimable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/interface/ITalkable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/interface/ITalkable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/interface_practice2/interface_practice2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/interface_practice2/interface_practice2.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/opp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/opp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/opp/opp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/opp/opp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/polymorphism/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/polymorphism/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/polymorphism/polymorphism.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/polymorphism/polymorphism.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/trycatchfinily/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/trycatchfinily/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week3/trycatchfinily/trycatchfinally.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week3/trycatchfinily/trycatchfinally.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/delegate/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/delegate/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/delegate/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/delegate/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/delegate/delegate.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/delegate/delegate.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/file/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/file/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/file/file.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/file/file.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/fully_list/Enum/Role.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/fully_list/Enum/Role.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/fully_list/Helpers/OutputHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/fully_list/Helpers/OutputHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/fully_list/Interface/IAudentificationManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/fully_list/Interface/IAudentificationManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/fully_list/Interface/IPasswordReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/fully_list/Interface/IPasswordReader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/fully_list/MockData/Data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/fully_list/MockData/Data.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/fully_list/Models/Teacher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/fully_list/Models/Teacher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/fully_list/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/fully_list/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/fully_list/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/fully_list/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/fully_list/Service/AudentificationManger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/fully_list/Service/AudentificationManger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/fully_list/Service/PasswordReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/fully_list/Service/PasswordReader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/fully_list/fully_list.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/fully_list/fully_list.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/json/Data/UserData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/json/Data/UserData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/json/Models/Currency.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/json/Models/Currency.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/json/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/json/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/json/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/json/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/json/json.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/json/json.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/list/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/list/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/list/list.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/list/list.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/security/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/security/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/security/security.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/security/security.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/security/security/Crypt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/security/security/Crypt.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/security/security/Hasher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/security/security/Hasher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/string_stringBuilder/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/string_stringBuilder/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/week4/string_stringBuilder/string_stringBuilder.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/week4/string_stringBuilder/string_stringBuilder.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/Forms/LogInForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/Forms/LogInForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/Forms/LogInForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/Forms/LogInForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/Forms/LogInForm.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/Forms/LogInForm.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/Forms/RegisterForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/Forms/RegisterForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/Forms/RegisterForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/Forms/RegisterForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/Forms/RegisterForm.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/Forms/RegisterForm.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/MainForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/MainForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/MainForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/MainForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/MainForm.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/MainForm.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/Properties/Resources.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/Properties/Resources.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/Properties/Resources.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/Resources/images.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/Resources/images.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/Resources/muhammad.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/Resources/muhammad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OnlyCore/winform_example_app/winform_example_app.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../csharp/OnlyCore/winform_example_app/winform_example_app.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2qR7R1gkqZ9sfcSxUp33oDsaOS4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.227" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.227" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a2bbfb0-fd19-421b-be84-2c145652e461" name="Changes" comment="" />
+      <created>1734613523192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734613523192</updated>
+      <workItem from="1734613524304" duration="43000" />
+      <workItem from="1734613579455" duration="29000" />
+      <workItem from="1734613635289" duration="28000" />
+      <workItem from="1734613669019" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
